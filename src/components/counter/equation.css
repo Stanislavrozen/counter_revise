@@ -1,0 +1,18 @@
+.equation {
+    display: flex;
+}
+.term {
+}
+
+.sign {
+    padding: 5px;
+}
+.sum {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+}
+.sum input {
+    font-weight: bolder;
+}
